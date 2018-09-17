@@ -18,7 +18,7 @@
 * Navigate to https://github.com/narottamgla/protractor-demo-site and clone the repositary in local system
 * Navigate to demoapp folder and open index.html
 * Make sure below Jquery added to index.html
-```
+```javascript
 <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.cemexgo.com/cdn/cypress/cypressRecorder.js"></script>
 ```
